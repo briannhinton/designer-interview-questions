@@ -1,12 +1,15 @@
 # Designer Interview Questions
 
-#Interview Questions
+This is a collection of interview questions to ask a new candidate, or to ask yourself. I plan on fleshing them out some more, and adding the answers I generally look for from a candidate.
+
+##Interview Questions
 
 - **Describe the path you took to become a designer.**
 - **Describe to me what you did to prep for this interview?**
 - **What tools do you use?**
 - **Explain the concept of UX design to a 5 year old?**
 - **In a job what would you do with any spare time you might have?**
+- **Describe your journey to this interview.**
 - **Describe your process and approach to Design?**
 (Research, Document, Pencil Sketch, Quantify Design, Approval, Document, Final Designs, Approval, Document, Implementation (code), Review Implementation, Approval, Release, Rinse and Repeat)
 
