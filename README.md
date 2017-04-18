@@ -40,5 +40,7 @@ This is a collection of interview questions to ask a new candidate, or to ask yo
     - Objective: Are they aware of trends, and technology?
 18. Do you prefer to work alone or with a team?
     - Objective: An honest answer will better see how, and where the candidate could fit within a team. Solo workers aren't necessarily bad, but can work independently.
-19. Let's whiteboard the design of a TV built for a visually impaired or blind individual?
+19. How would you like to grow as a designer? Are their topics that you see need for improvement?
+    - Objective: Everyone can grow. Do they recognize their own weaknesses?
+20. Let's whiteboard the design of a TV built for a visually impaired or blind individual?
     - Objective: Visual thinking on an uncommon problem that is purposefully distant from simply drawing a wireframe.
