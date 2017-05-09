@@ -22,7 +22,7 @@ This is a collection of interview questions to ask a new candidate, or to ask yo
     - Objective: No right answer. Checking for logical thinking, and openness to work with developers to understand the change.
 9. What do you know about the company and services/products we sell?
     - Objective: Follow up on question 2. to evaluate their knowledge.
-10. When designing an interface flow how do you know what you are designing is tailored for the user?
+10. When designing an interface flow how do you know that what you are designing is tailored for the user?
     - Objective: Checking for basic understanding of user research
 11. How do you know when a design is done?
     - Objective: Many would say when you can't remove anything else. Simplified to the bare minimum. My answer is that design is continously iterative, but a design is complete when the projects requirements have been met. But it is never truly done.
