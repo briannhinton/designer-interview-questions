@@ -2,6 +2,8 @@
 
 This is a collection of interview questions to ask a new candidate, or to ask yourself. I plan on fleshing them out some more, and adding the answers I generally look for from a candidate.
 
+See something wrong? Have a suggestion? [https://github.com/mrbrianhinton/designer-interview-questions/pulls](Submit a pull request.)
+
 ## Interview Questions
 
 ## Phone Questions
