@@ -25,7 +25,7 @@ This is a collection of interview questions to ask a new candidate, or to ask yo
     - Objective: Personal growth? Is it important to the candidate that they pursue activities that grow their skillset, and expand their capabilities?
     
 7. Describe your process and approach to Design?
-    - Objective: See if they have an existing process, and how they work. Discovery for improvement on our end, and on the individuals organization capabilities. Our looping process: Research, Document, Pencil Sketch, Quantify Design, Approval, Document, Final Designs, Approval, Document, Implementation (code), Review Implementation, Approval, Release, Rinse and Repeat)
+    - Objective: See if they have an existing process, and how they work. Do they follow a process, or just jump right in? Can they follow a process? Our looping process: Research, Document, Pencil Sketch (ideation), Quantify Design (wireframes and basic prototypes), Approval, Document, Final Designs, Approval, Document, Implementation (code), Review Implementation, Approval, Release, Rinse and Repeat)
     
 8. What if a design of yours wasn’t implemented correctly by a Front-end Developer, what would be your response?
     - Objective: No right answer. Checking for logical thinking, and openness to work with developers to understand the change.
