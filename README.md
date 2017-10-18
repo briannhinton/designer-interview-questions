@@ -69,4 +69,4 @@ This is a collection of interview questions to ask a new candidate, or to ask yo
     - Objective: Visual thinking on an uncommon problem that is purposefully distant from simply drawing a wireframe.
     
 21. Think about the journey you took to arrive for the interview today. Now on the whiteboard, while talking to me, visually communicate the journey. How you want to visualize this is up to you.
-    -Objective: Can they visualize thoughts on the whiteboard? Do words flow while communicating visually?
+    - Objective: Can they visualize thoughts on the whiteboard? Do words flow while communicating visually?
