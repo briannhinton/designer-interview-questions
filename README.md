@@ -1,18 +1,24 @@
 # Designer Interview Questions
 
-This is a collection of interview questions to ask a new candidate, or to ask yourself. I plan on fleshing them out some more, and adding the answers I generally look for from a candidate.
+This is a collection of interview questions to ask a new candidate, or to ask yourself to prepare for an interview.
 
-See something wrong? Have a suggestion? [Submit pull request.](https://github.com/mrbrianhinton/designer-interview-questions/pulls)
+See something wrong? Spelling mistake? Horrible grammar? Or simply have a suggestion? [Submit pull request.](https://github.com/mrbrianhinton/designer-interview-questions/pulls)
 
 ## Interview Questions
 
 ## Phone Questions
 
-1. Where are you from?
+Q: Tell me about the journey to where you are now in your career?
 
-2. Tell me about something you are passionate about?
+A: Looking for communication skills. Can you articulate your career? Remember they have your resume, and this is an opportunity to expand on it. Each job is a point in your journey. What happened along the way?
 
-3. What is your background?
+---
+
+Q: What is something you are passionate about?
+
+A: This doesn't have to be work related. It's good if this is personal.
+
+ 
 
 4. Describe your skillset?
 
