@@ -2,7 +2,7 @@
 
 This is a collection of interview questions to ask a new candidate, or to ask yourself to prepare for an interview.
 
-See something wrong? Spelling mistake? Horrible grammar? Or simply have a suggestion? [Submit pull request.](https://github.com/mrbrianhinton/designer-interview-questions/pulls)
+**See something wrong? Spelling mistake? Horrible grammar? Or simply have a suggestion? [Submit pull request.](https://github.com/mrbrianhinton/designer-interview-questions/pulls)**
 
 ## Interview Questions
 
